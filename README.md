@@ -1,6 +1,7 @@
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project is used for solving various coding problems found online regarding to React. The solutions exists in the coding problems folder.
 
 ## Available Scripts
 
